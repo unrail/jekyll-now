@@ -7,6 +7,14 @@ File: Main Css
 /* ===========
    Menu
  =============*/
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 .wrapper {
   padding-top: 123px;
 }
