@@ -16,6 +16,13 @@ File: Main Css
   margin-bottom: 50px;
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
