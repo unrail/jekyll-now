@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Id] Post Pertama
+title: Indonesia Version Post Pertama
 ---
 
 Ini adalah halaman pertamaku mengunakan bahasa indonesia 
