@@ -11,6 +11,40 @@ File: Main Css
   padding-top: 123px;
 }
 
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+nav {
+   float: right;
+}
+
+.post {
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid inherit;
+    padding: 0.1em 1em;
+    font-size: 22px;
+    font-style: italic;
+}
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+}   
+   
 .page-title-box {
   padding: 22px 0;
 }
